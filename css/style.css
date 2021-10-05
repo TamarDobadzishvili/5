@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+
+body{
+	background-color:#F6F8F9;
+}
+/*header code*/
+.header{
+	padding-top: 20px;
+	padding-bottom: 19px;
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	top: 0;
+	left: 0;
+
+}
+
+.logo{
+	display: inline-block;
+	font-size: 13px;
+	color: #FA6980;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-right: 92px;
+	padding-left: 22px;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+
+}
+.nav-li{
+	display: inline-block;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+    padding-right: 22px;
+    vertical-align: middle;
+
+}
+.li{
+	color: #A6ADB4;
+}
+.active{
+	color: #343638;
+}
+.img-logo{
+	vertical-align: middle;
+}
+
+
+/*section 1 code*/
+
+.section1{
+	margin-top: 74px;
+	margin-left: 140px;
+}
+.title1{
+	
+	margin-bottom: 42px;
+	font-weight: bold;
+}
+.div1{
+	display: inline-block;
+	margin-right: 40px;
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+}
+.blocktext1{
+	margin:75px 80px 13px 40px;
+	width: 240px;
+	height: 36px;
+	text-align:left;
+	color: #A6ADB4;
+	font-size: 13px;
+
+}
+.imgwrapper{
+	position: relative;
+}
+.imgtext1{
+	position: absolute;
+	top: 27px;
+	left: 41px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.timeimg{
+	display: inline-block;
+	margin-left: 40px;
+}
+.div2{
+	display: inline-block;
+	margin-right: 40px;
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+}
+.blocktext2{
+	margin:75px 80px 13px 40px;
+	width: 240px;
+	height: 36px;
+	text-align:left;
+	color: #A6ADB4;
+	font-size: 13px;
+}
+.imgtext2{
+	position: absolute;
+	top: 27px;
+	left: 41px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.timeimg2{
+	display: inline-block;
+	margin-left: 40px;
+}
+.div3{
+	display: inline-block;
+	margin-right: 40px;
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+}
+.blocktext3{
+	margin:75px 80px 13px 40px;
+	width: 240px;
+	height: 36px;
+	text-align:left;
+	color: #A6ADB4;
+	font-size: 13px;
+}
+.imgtext3{
+	position: absolute;
+	top: 27px;
+	left: 41px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.timeimg3{
+	display: inline-block;
+	margin-left: 40px;
+}
